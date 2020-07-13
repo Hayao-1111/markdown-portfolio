@@ -1,1 +1,5 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+
+**are you ok?**
+Do you like the :sparkles: _or not_ ?
+# sigh!
+**note** Please don't use extra space[ ] , __right?__
